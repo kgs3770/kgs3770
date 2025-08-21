@@ -24,9 +24,9 @@
 </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sienna011022&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=sienna011022&show_icons=true">
- <br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sienna011022&layout=compact"><br><br> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sienna011022&show_icons=true"> -->
+<!--  <br> -->
 <!-- <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://sienna1022.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://sienna1022.tistory.com/"/></a>&nbsp
