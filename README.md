@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp 
 </p>
 
-### 👩‍💻 My Github Stats 👩‍💻
+<!--### 👩‍💻 My Github Stats 👩‍💻
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgs3770&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kgs3770&show_icons=true">
 <br>
